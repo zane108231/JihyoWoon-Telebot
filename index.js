@@ -37,7 +37,7 @@ ${rainbowText('║ Credits: Jihyo Woon. ║')}
 ${rainbowText('╚══════════════════════════╝')}
 `;
 
-const token = '7205179678:AAEXpVQaEQIpjBrVxDijnvINLeyDaQDBo_4';
+const token = '7298983210:AAHxiiwTnciv2odUzcLLj5xIJ2x0BMOQbEw';
 const bot = new TelegramBot(token, { polling: true });
 
 const commandsPath = path.join(__dirname, 'commands');
